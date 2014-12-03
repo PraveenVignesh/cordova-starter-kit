@@ -128,7 +128,7 @@ module.exports = function(grunt) {
         tasks: ['coffee']
       },
       haml: {
-        files: ['src/templates/*.haml'],
+        files: ['src/*.haml'],
         tasks: ['haml']
       },
       uglify: {
