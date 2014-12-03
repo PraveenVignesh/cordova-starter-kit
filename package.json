@@ -1,0 +1,12 @@
+{
+  "name": "cordovaStarterKit",
+  "version": "0.0.1",
+  "description": "rails style assets management for cordova project. ",
+  "keywords": [
+    "cordova",
+    "starter",
+    "kit",
+    "grunt"
+  ],
+  "author": "praveen vignesh"
+}
